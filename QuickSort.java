@@ -1,3 +1,10 @@
+/**
+ * QuickSort sorts arrays in ascending order.
+ * This implementation works for integers; can be expanded by changing to a Comparator on line 38.
+ * Average case time complexity: O(n logn)
+ * Worst case time complexity: O(n^2)
+ * Space complexity O(1)
+ */
 public class QuickSort {
 
     public static void main(String[] args) {
